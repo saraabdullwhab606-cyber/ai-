@@ -1,0 +1,18 @@
+GCI WORLD 2026 FINAL ASSIGNMENT - DELIVERABLES
+
+Files in this folder:
+- Complete_Project_Notebook.ipynb: executed reproducible data audit, EDA, model comparison, test evaluation, and illustrative business scenario.
+- Final_Presentation.pptx: editable 15-slide presentation.
+- Final_Presentation.pdf: PDF export (created after PowerPoint verification).
+- Project_Explanation_AR.docx: Egyptian Arabic project explanation and viva preparation guide.
+- References.txt: source list and placeholder for the required shareable AI chat URL.
+
+Important before submission:
+1. Confirm with the TA that the Winter-labelled dataset overview and ZIP are approved for the September 2026 cohort.
+2. Confirm the 0/1 encoding of churn and which features were available at the observation date.
+3. Add the shareable AI conversation URL to Omnicampus References.
+4. Rename the notebook and PDF to the exact Omnicampus account name.
+5. Keep the PDF at no more than 15 slides and under 10 MB.
+6. Review the final outputs and ensure you can explain the main findings.
+
+All modelling metrics are from a stratified 70/15/15 split on the uploaded ZIP. Financial values are scenario estimates in dataset revenue units, not confirmed currency or ROI.

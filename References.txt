@@ -1,0 +1,25 @@
+GCI World 2026 September - Final Assignment
+Project: Predict Before They Leave - Customer Retention Strategy for Company A
+
+EXTERNAL MARKET REFERENCES
+[1] CTIA (9 September 2026). Americans Used More Wireless Data in 2025 than in the Entire 4G Decade, CTIA Annual Survey Finds.
+https://www.prnewswire.com/news-releases/americans-used-more-wireless-data-in-2025-than-in-the-entire-4g-decade-ctia-annual-survey-finds-302873477.html
+Note: News release supplied by CTIA; CTIA is an industry association.
+
+[2] U.S. Federal Communications Commission (May 2026). Internet Access Services: Status as of June 30, 2025.
+https://docs.fcc.gov/public/attachments/DOC-421557A1.pdf
+
+COURSE-PROVIDED MATERIALS
+[3] Matsuo-Iwasawa Lab, The University of Tokyo. GCI World 2026 September Final Assignment README. (Uploaded course material.)
+[4] Matsuo-Iwasawa Lab, The University of Tokyo. GCI World 2026 September Final Assignment Tutorial. (Uploaded course material.)
+[5] GCI World 2026 Winter Company A Dataset Overview. (Uploaded course material; filename/version mismatch pending TA confirmation.)
+[6] Company A telecom dataset ZIP containing Client.csv and Record.csv. (Uploaded course data.)
+
+AI ASSISTANCE REFERENCE - REQUIRED BY COURSE
+[7] Paste the shareable URL of this ChatGPT conversation in the Omnicampus References field before submission:
+[ADD SHAREABLE CHAT HISTORY URL HERE]
+
+IMPORTANT LIMITATIONS
+- Dataset Overview filename says Winter 2026, while the README and Tutorial are labelled September 2026. Confirm the dataset version with the TA.
+- Market statistics are current external context and may not match the unknown vintage of the supplied data.
+- Do not present the scenario calculations as actual ROI or proven campaign uplift.
